@@ -22,7 +22,7 @@ In this series,there are:
 ***How to use a mask image like part 1: [lonesane](http://lonesane.iteye.com/blog/791267)***
 
 ##中文介绍
-看了[Styling Android](http://blog.stylingandroid.com/)发表`Irregular Shapes`系列教程之后，整理除了这个工程。主要就是为了添加中文注释方便查阅。
+看了[Styling Android](http://blog.stylingandroid.com/)发表`Irregular Shapes`系列教程之后，整理出了这个工程。主要就是为了添加中文注释方便查阅。
 也能加入自己的理解。
 
 该系列教程共有四篇，分别是：
