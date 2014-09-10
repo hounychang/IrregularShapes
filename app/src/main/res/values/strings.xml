@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IrregularShapes</string>
+    <string name="title_section1">Part 1</string>
+    <string name="title_section2">Part 2</string>
+    <string name="title_section3">Part 3</string>
+    <string name="title_section4">Part 4</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
