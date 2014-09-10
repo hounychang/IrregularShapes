@@ -14,6 +14,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.houny.irregularshapes.fragment.PartOneFragment;
+
 import java.util.Locale;
 
 
@@ -99,6 +101,11 @@ public class MyActivity extends ActionBarActivity implements ActionBar.TabListen
 
         @Override
         public Fragment getItem(int position) {
+            switch (position){
+                case 0:
+                    return new PartOneFragment();
+
+            }
             return PlaceholderFragment.newInstance(position + 1);
         }
 
